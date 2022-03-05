@@ -1,3 +1,5 @@
 # Project exclude paths
 /node_modules/
 .env
+.prod.env
+notes-api-web-server.pem
