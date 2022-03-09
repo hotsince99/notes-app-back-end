@@ -3,3 +3,10 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/dataSources.local.xml
+/dataSources.xml
+/dataSources/ea5efbfb-b294-48d9-8069-c54312ad7389.xml
+/dataSources/ea5efbfb-b294-48d9-8069-c54312ad7389/storage_v2/_src_/database/notesapp.wCdMXg/schema/information_schema.FNRwLQ.meta
+/dataSources/ea5efbfb-b294-48d9-8069-c54312ad7389/storage_v2/_src_/database/notesapp.wCdMXg.meta
+/dataSources/ea5efbfb-b294-48d9-8069-c54312ad7389/storage_v2/_src_/database/notesapp.wCdMXg/schema/pg_catalog.0S1ZNQ.meta
+/dataSources/ea5efbfb-b294-48d9-8069-c54312ad7389/storage_v2/_src_/database/notesapp.wCdMXg/schema/public.abK9xQ.meta
